@@ -2,7 +2,7 @@
 import * as React from 'react';
 import './app.css'
 import styled from "styled-components";
-import {AiOutlineSend} from "react-icons/all";
+import { AiOutlineSend } from "react-icons/ai";
 import {Message} from "./types/Message";
 import useChat from "./useChat";
 import {useParams} from "react-router-dom";
